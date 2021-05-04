@@ -10,3 +10,4 @@
 - [ ] Update Constants
 - [ ] Test Multiple Rounds at same Step
 - [ ] Complete Hashing Implementation
+- [ ] Implement UINT64 Version (https://github.com/tensorflow/tensorflow/blob/master/tensorflow/compiler/xla/python/xla_client.py)
